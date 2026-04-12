@@ -22,7 +22,7 @@
         "key": "12345",
         "expirydate": "12-05-2026",
         "Allowoffline": false
-    } 
+    },
     {
         "device_id": "123456",
         "key": "1234",
