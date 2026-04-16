@@ -12,6 +12,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "df23cfc6b95a9102",
+        "key": "12345",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "def378ed4e70c14c",
         "key": "12345",
         "expirydate": "13-05-2025",
