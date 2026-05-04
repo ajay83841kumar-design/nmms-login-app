@@ -176,7 +176,13 @@
     {
         "device_id": "2cdbae2d1a4c27df",
         "key": "aks342",
-        "expirydate": "5-05-2026",
+        "expirydate": "5-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b6adf6677ac36e0a",
+        "key": "aks343",
+        "expirydate": "5-06-2026",
         "Allowoffline": false
     }
 ]
