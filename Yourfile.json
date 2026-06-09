@@ -550,5 +550,11 @@
         "key": "SAR123",
         "expirydate": "07-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c8e340af337d7a03",
+        "key": "RSH289",
+        "expirydate": "17-06-2026",
+        "Allowoffline": false
     }
 ]
