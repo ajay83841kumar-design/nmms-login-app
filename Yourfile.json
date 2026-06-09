@@ -580,5 +580,11 @@
         "key": "RSH293",
         "expirydate": "19-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ea70efb68dbdee2c",
+        "key": "RSH294",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
