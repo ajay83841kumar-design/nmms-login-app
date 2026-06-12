@@ -604,5 +604,11 @@
         "key": "RSH297",
         "expirydate": "27-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "379863d787a0ae6c",
+        "key": "RSH298",
+        "expirydate": "21-06-2026",
+        "Allowoffline": false
     }
 ]
